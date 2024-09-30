@@ -1,16 +1,66 @@
-# hello_world
+# Pemrograman Mobile Pertemuan Minggu 3
 
-A new Flutter project.
+| Nama  :   | Haidar Aly |
+| :--------: | :-------: |
 
-## Getting Started
+| Kelas :  | TI-3F    |
+| :--------: | :-------: |
 
-This project is a starting point for a Flutter application.
+| Absen : |  09  |
+| :--------: | :-------: |
 
-A few resources to get you started if this is your first Flutter project:
+| NIM   :  | 2241720258   |
+| :--------: | :-------: |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Praktikum 1
+- Membuat Flutter Project
+<img src="assets/screenshot/01.png"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Praktikum 2
+- Menyalakan USB Debugging
+<img src="assets/screenshot/02.jpg"/>
+
+- Install USB Debug di Android Studio
+<img src="assets/screenshot/03.png"/>
+
+- Test run debug di Android
+<img src="assets/screenshot/04.jpg"/>
+
+## Praktikum 3
+- Membuat repo baru
+<img src="assets/screenshot/05.png"/>
+
+- First Commit
+<img src="assets/screenshot/06.png"/>
+
+- Stage semua hello_world
+<img src="assets/screenshot/07.png"/>
+
+- Test debug di chrome
+<img src="assets/screenshot/09.png"/>
+
+## Praktikum 4
+- Text widget
+<img src="assets/screenshot/10.png"/>
+
+- Image Widget
+<img src="assets/screenshot/11.png"/>
+
+## Praktikum 5
+- Cupertino button dan loading bar
+<img src="assets/screenshot/12.png"/>
+
+- Floating action button
+<img src="assets/screenshot/13.png"/>
+
+- Scaffold widget
+<img src="assets/screenshot/14.png"/>
+
+- Dialog widget
+<img src="assets/screenshot/15.png"/>
+
+- Input dan selection widget
+<img src="assets/screenshot/16.png"/>
+
+- Date picker
+<img src="assets/screenshot/17.png"/>
